@@ -7,8 +7,8 @@ export default function ProjectList({ data }) {
     <div className="project-list section">
       {data &&
         data.map((project) => (
-          <Link to={`/project/${project.id}`}>
-            <ProjectSummary data={project} key={project.id} />
+          <Link to={`/project/${project.id}`} key={project.id}>
+            <ProjectSummary data={project} />
           </Link>
         ))}
     </div>
