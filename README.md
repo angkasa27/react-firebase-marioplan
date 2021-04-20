@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-TSee the web [here](https://netninja-marioplan-9a506.web.app/).
+
+see the web [here](https://netninja-marioplan-9a506.web.app/).
 
 ## Available Scripts
 
