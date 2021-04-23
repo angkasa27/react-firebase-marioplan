@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tutorial project from The Net Ninja React Firebase
+
 see the web [here](https://netninja-marioplan-9a506.web.app/).
 
 ## Available Scripts
